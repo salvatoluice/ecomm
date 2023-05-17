@@ -30,10 +30,10 @@ function CartWithItems() {
       <div className="subtotal-div">
         <div className="sub-right">
           <p>Subtotal</p>
-          <p className="total-price">{totalPrice + ".00$"}</p>
+          <p className="total-price">Ksh. {totalPrice + ".00"}</p>
         </div>
         <div className="sub-left">
-          <Link>Go to Checkout</Link>
+          <Link>Proceed to Checkout</Link>
         </div>
       </div>
     </>

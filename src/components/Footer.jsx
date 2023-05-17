@@ -13,7 +13,7 @@ function Footer() {
           <a href="#">Contact Us</a>
         </div>
         <p className="love">
-          DEveloped &nbsp; by{" "}
+          Developed &nbsp; by{" "}
           <a
             target="_blank"
             rel="noreferrer"

@@ -50,7 +50,7 @@ function CartItem() {
             </div>
           </div>
           <div className="cart-right">
-            <p className="cart-price">{calcPrice(quantity, item.price)}.00$</p>
+            <p className="cart-price">Ksh. {calcPrice(quantity, item.price)}.00</p>
             <i
               onClick={() => removeFromCart(item.id)}
               className="fa-sharp fa-solid fa-xmark"

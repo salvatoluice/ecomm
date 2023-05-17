@@ -5,7 +5,7 @@ function Newsletter() {
     <>
       <div className="news">
         <div className="news-text">
-          <h2>Newsletter</h2>
+          <h2>Subscribe to our Newsletter</h2>
           <form>
             <input type="email" placeholder="your@email.com" />
             <button type="submit">Subscribe</button>
