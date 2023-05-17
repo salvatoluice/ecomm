@@ -13,14 +13,14 @@ function Footer() {
           <a href="#">Contact Us</a>
         </div>
         <p className="love">
-          Design &nbsp; by{" "}
+          DEveloped &nbsp; by{" "}
           <a
             target="_blank"
             rel="noreferrer"
-            style={{ color: "white" }}
-            href="https://github.com/Abderraouf-Rahmani"
+            style={{ color: "blue" }}
+            href="https://salvatoluiz.netlify.app/"
           >
-            &nbsp; Abderraouf
+            &nbsp; Salvato Luis
           </a>
         </p>
       </footer>
